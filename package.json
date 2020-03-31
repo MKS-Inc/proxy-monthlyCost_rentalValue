@@ -1,0 +1,24 @@
+{
+  "name": "abode-summary-contacts-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apex-io/abode-summary-contacts-proxy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apex-io/abode-summary-contacts-proxy/issues"
+  },
+  "homepage": "https://github.com/apex-io/abode-summary-contacts-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.3"
+  },
+  "devDependencies": {}
+}
